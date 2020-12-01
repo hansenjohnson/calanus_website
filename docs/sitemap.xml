@@ -23,6 +23,16 @@
   </url>
   
   <url>
+    <loc>/calanus_website/models/model1/</loc>
+    <lastmod>2020-12-01T12:19:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/calanus_website/models/model2/</loc>
+    <lastmod>2020-12-01T12:19:34-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/calanus_website/</loc>
     <lastmod>2020-11-30T23:46:10-04:00</lastmod>
   </url>
@@ -30,6 +40,11 @@
   <url>
     <loc>/calanus_website/datasets/</loc>
     <lastmod>2020-11-30T22:15:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/calanus_website/models/</loc>
+    <lastmod>2020-12-01T12:19:34-04:00</lastmod>
   </url>
   
 </urlset>
