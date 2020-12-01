@@ -1,2 +1,2 @@
-# calanus_data_website
+# calanus_website
 Simple website for showcasing Calanus datasets in the NW Atlantic
