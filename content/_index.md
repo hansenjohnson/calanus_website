@@ -13,7 +13,7 @@ Here's a quick website to organize all the Calanus dataset in the NW Atlantic
 
 {{< /column >}}
 {{< column >}}
-![diy](calanus.jpg)
+![diy](/images/calanus.jpg)
 Calanus finmarchicus from Baumgartner & Tarrant 2017 
 {{< /column >}}
 {{< /block >}}
