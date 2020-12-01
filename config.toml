@@ -1,4 +1,4 @@
-baseURL = "/calanus_data_website" # for hosting
+baseURL = "/calanus_website" # for hosting
 # baseURL = "" # for local testing
 title = "Calanus"
 enableRobotsTXT = true
