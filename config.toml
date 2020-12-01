@@ -1,4 +1,4 @@
-baseURL = "https://hansenjohnson.github.io/"
+baseURL = "https://hansenjohnson.github.io/calanus_data_website/"
 title = "Calanus"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
