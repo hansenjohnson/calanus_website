@@ -47,7 +47,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [params]
   author = "Hansen Johnson"
   searchPlaceholder = "Search the docs ..."
-  repo = "https://github.com/hansenjohnson/calanus_data_website"
+  repo = "https://github.com/hansenjohnson/calanus_website"
 
   time_format_blog = "Monday, January 02, 2006"
   time_format_default = "January 2, 2006"
@@ -59,4 +59,4 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.source]
     name = "GitHub"
     icon = "github.svg"
-    url = "https://github.com/hansenjohnson/calanus_data_website"
+    url = "https://github.com/hansenjohnson/calanus_website"
