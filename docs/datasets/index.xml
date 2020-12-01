@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets on Calanus</title>
+    <link>http://localhost:1313/datasets/</link>
+    <description>Recent content in Datasets on Calanus</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost:1313/datasets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AZMP</title>
+      <link>http://localhost:1313/datasets/azmp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/datasets/azmp/</guid>
+      <description>Description Access Examples </description>
+    </item>
+    
+    <item>
+      <title>CPR</title>
+      <link>http://localhost:1313/datasets/cpr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/datasets/cpr/</guid>
+      <description>Description Access Examples </description>
+    </item>
+    
+    <item>
+      <title>EcoMon</title>
+      <link>http://localhost:1313/datasets/ecomon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/datasets/ecomon/</guid>
+      <description>Description Access Examples </description>
+    </item>
+    
+  </channel>
+</rss>
