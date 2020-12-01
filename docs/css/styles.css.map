@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/hansenjohnson/Projects/calanus_data_website",
+	"sourceRoot": "/Users/hansenjohnson/Projects/calanus_website",
 	"sources": [
 		"themes/compose/assets/sass/main.sass",
 		"themes/compose/assets/sass/_variables.sass",
