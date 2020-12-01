@@ -17,8 +17,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     url = "datasets/"
 
 [[menu.main]]
-    name = "About"
+    name = "Models"
     weight = 3
+    url = "models/"
+
+[[menu.main]]
+    name = "About"
+    weight = 4
     url = "about/"
 
 [markup]

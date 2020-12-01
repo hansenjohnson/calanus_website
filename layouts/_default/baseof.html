@@ -10,6 +10,8 @@
   <div class="main wrap pt-4">
     {{- if eq .Section "datasets" }}
     {{- partial "document" . }}
+    {{- else if eq .Section "models" }}
+    {{- partial "document" . }}
     {{- else }}
     {{- block "main" . }}{{ end }}
     {{- end }}
