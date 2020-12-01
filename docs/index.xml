@@ -41,14 +41,5 @@ Access Here are links to data repositories:
 1 2 3 4 5  # read in the data d &amp;lt;- readRDS(&amp;#39;path/to/data.rds&amp;#39;) # plot plot_data(d)   </description>
     </item>
     
-    <item>
-      <title>Search</title>
-      <link>/calanus_website/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/calanus_website/search/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
