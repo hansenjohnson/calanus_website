@@ -11,7 +11,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/calanus_data_website/datasets/azmp/</guid>
-      <description>Description Access Examples </description>
+      <description>Description Here&#39;s a description of the Calanus data collected under the Atlantic Zonal Monitoring Program (AZMP)
+Access Here are links to data repositories:
+ Link 1 Link 2 Link 3  Examples Here is an example for how to download and plot these data
+1 2 3 4 5  # read in the data d &amp;lt;- readRDS(&amp;#39;path/to/data.rds&amp;#39;) # plot plot_data(d)   </description>
     </item>
     
     <item>
@@ -20,7 +23,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/calanus_data_website/datasets/cpr/</guid>
-      <description>Description Access Examples </description>
+      <description>Description Here&#39;s a description of the Calanus data collected using a Continuous Plankton Recorder (CPR)
+Access Here are links to data repositories:
+ Link 1 Link 2 Link 3  Examples Here is an example for how to download and plot these data
+1 2 3 4 5  # read in the data d &amp;lt;- readRDS(&amp;#39;path/to/data.rds&amp;#39;) # plot plot_data(d)   </description>
     </item>
     
     <item>
@@ -29,7 +35,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/calanus_data_website/datasets/ecomon/</guid>
-      <description>Description Access Examples </description>
+      <description>Description Here&#39;s a description of the Calanus data collected under the Ecosystem Monitoring (EcoMon) program
+Access Here are links to data repositories:
+ Link 1 Link 2 Link 3  Examples Here is an example for how to download and plot these data
+1 2 3 4 5  # read in the data d &amp;lt;- readRDS(&amp;#39;path/to/data.rds&amp;#39;) # plot plot_data(d)   </description>
     </item>
     
     <item>
