@@ -5,6 +5,6 @@ weight: 1
 
 # About
 
-This site is dedicated to organizing all the Calanus datasets in the Northwest Atlantic
+The goal of this site is to coordinate Calanus datasets in the Northwest Atlantic
 
-*Website built in Hugo using the Compose theme*
+*The site was built in [Hugo](https://gohugo.io/) using the [Compose theme](https://docs.neuralvibes.com/)*
