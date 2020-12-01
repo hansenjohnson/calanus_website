@@ -9,7 +9,7 @@ title = "Calanus"
 
 Here's a quick website to organize all the Calanus dataset in the NW Atlantic
 
-{{< button "datasets/" "Datasets" >}} {{< button "about/" "About" >}}
+{{< button "datasets/" "Datasets" >}} {{< button "models/" "Models" >}} {{< button "about/" "About" >}}
 
 {{< /column >}}
 {{< column >}}
