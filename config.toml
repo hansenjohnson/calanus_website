@@ -1,4 +1,5 @@
-baseURL = "/calanus_data_website"
+baseURL = "/calanus_data_website" # for hosting
+# baseURL = "" # for local testing
 title = "Calanus"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
